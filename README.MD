@@ -5,7 +5,7 @@
 - cd my_flask_app
 - python -m venv venv
 - venv\Scripts\activate
-- pip install flask flask-sqlalchemy
+- pip install -r requirements.txt
 - set FLASK_APP = app
 - set FLASK_DEBUG = 1
 - flask run --port = 3000
