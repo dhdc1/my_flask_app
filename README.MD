@@ -1,0 +1,13 @@
+**ขั้นตอน**
+```
+
+- git clone https://github.com/dhdc1/my_flask_app.git
+- cd my_flask_app
+- python -m venv venv
+- venv\Scripts\activate
+- pip install flask flask-sqlalchemy
+- set FLASK_APP = app
+- set FLASK_DEBUG = 1
+- flask run --port = 3000
+
+```
