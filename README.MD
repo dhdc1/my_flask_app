@@ -6,9 +6,9 @@
 - python -m venv venv
 - venv\Scripts\activate
 - pip install -r requirements.txt
-- set FLASK_APP = app
-- set FLASK_DEBUG = 1
-- flask run --port = 3000
+- set FLASK_APP=app
+- set FLASK_DEBUG=1
+- flask run --port=3000
 
 
 ```
